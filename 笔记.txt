@@ -2,4 +2,4 @@
 2,git config --global user.email "15384970@qq.com"
 3,git init
 4,git add 文件名
-大萨达撒多撒大所多撒
+5，
